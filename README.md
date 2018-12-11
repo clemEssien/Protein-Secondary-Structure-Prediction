@@ -6,4 +6,5 @@ Example is python train_model.py training.txt 9
 
 The model is saved then
 
-You can subsequently python predict.py test.txt 9 on an independent test set 
+You can subsequently run the command python predict.py test.txt 9 
+on an independent test set 
